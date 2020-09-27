@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/helloworld.dir/ceres_lession1.cpp.o  -o helloworld /usr/local/lib/libceres.a -lglog /usr/local/lib/libgflags.a -lspqr -ltbb -ltbbmalloc -lcholmod -lccolamd -lcamd -lcolamd -lamd -lopenblas -lsuitesparseconfig -lrt -lcxsparse -lopenblas -lsuitesparseconfig -lrt -lcxsparse -lgomp -lpthread 
